@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Alicorn's blog
 
 You can use the [editor on GitHub](https://github.com/alicorn0618/alicorn0618.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
